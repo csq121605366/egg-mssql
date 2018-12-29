@@ -1,5 +1,5 @@
 {
-  "name": "egg-mssql",
+  "name": "rayplus-egg-mssql",
   "version": "1.0.0",
   "description": "基本mssql的egg插件",
   "eggPlugin": {
