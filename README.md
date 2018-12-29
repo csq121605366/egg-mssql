@@ -27,7 +27,7 @@ Description here.
 ## Install
 
 ```bash
-$ npm i egg-mssql --save
+$ npm i rayplus-egg-mssql --save
 ```
 
 ## Usage

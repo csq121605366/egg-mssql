@@ -1,6 +1,6 @@
 {
   "name": "rayplus-egg-mssql",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "基本mssql的egg插件",
   "eggPlugin": {
     "name": "mssql"
@@ -46,12 +46,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-mssql.git"
+    "url": "git+https://github.com/csq121605366/egg-mssql.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/csq121605366/egg-mssql/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-mssql#readme",
+  "homepage": "https://github.com/csq121605366/egg-mssql#readme",
   "author": "csq",
   "license": "MIT"
 }
